@@ -1,10 +1,4 @@
 😄 Java后端工程师 懂一点前端
-
-### Project
-
-### Likes
-
-### Others
 <!--
 **LookingStarts/LookingStarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
