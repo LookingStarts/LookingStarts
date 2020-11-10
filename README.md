@@ -1,7 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=LookingStarts)
 😄 Java后端 懂一点前端 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LookingStarts)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
